@@ -1,10 +1,10 @@
-# 2021-S2 Quiz 4
+# Quiz 4
 
 ## Instrucciones Generales
 - El archivo **debe** llamarse **Quiz4.py**
 - **Debe** respetar el nombre de las funciones y el nombre de los parámetros que más adelante se describen
 - Deben contruir las funciones con **Python**
-- Debe utilizar la estrategia de programación con **Iteración**
+- Debe utilizar la estrategia de programación con **Recursión**
 - Debe crear los comentarios de cada función tomando en cuenta **Entrada**, **Salida** y **Restricciones**
 
 ## esPrimo(num)  (5 puntos)
